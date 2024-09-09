@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasiddh Prajapati
+- 👋 Hi, I’m Prasiddh Prajapati 
 - 👀 I’m interested in Machine Learning / Artifical Intelligence
 - 🌱 I’m currently learning advanced Machine learning algorithms,Deep learning and working on AI-driven projects
 - 💞️ I’m looking to collaborate on AI/ML projects,Data science challenges, and innovative application AI
